@@ -1,4 +1,5 @@
 export default {
+  buildDir: ".nuxt",
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "Mealie",
